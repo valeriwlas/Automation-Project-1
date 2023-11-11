@@ -1,0 +1,36 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-3152
+END=1647
+title=Input fields Username cannot be empty string
+[CHAPTER]
+TIMEBASE=1/1000
+START=1442
+END=6496
+title=Input fields Username tooltip is visible
+[CHAPTER]
+TIMEBASE=1/1000
+START=7129
+END=11571
+title=Input fields Username should have min and max length values 1 and 50 characters
+[CHAPTER]
+TIMEBASE=1/1000
+START=11204
+END=16025
+title=Input fields Username should support only lower letters and numbers
+[CHAPTER]
+TIMEBASE=1/1000
+START=16382
+END=20862
+title=Input fields Email input should support correct pattern
+[CHAPTER]
+TIMEBASE=1/1000
+START=20587
+END=25356
+title=Input fields User cannot submit empty registration form
+[CHAPTER]
+TIMEBASE=1/1000
+START=25293
+END=30133
+title=Input fields BMW should not be listed in cars list
